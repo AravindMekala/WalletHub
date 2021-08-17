@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-17T09:42:15 IST" name="WalletHubAssignment" finished-at="2021-08-17T09:42:41 IST" duration-ms="25894">
+    <groups>
+    </groups>
+    <test started-at="2021-08-17T09:42:15 IST" name="Facebook" finished-at="2021-08-17T09:42:41 IST" duration-ms="25894">
+      <class name="com.facebook.PostStatus">
+        <test-method is-config="true" signature="createDriverandLogin()[pri:0, instance:com.facebook.PostStatus@6cfcd46d]" started-at="2021-08-17T09:42:15 IST" name="createDriverandLogin" finished-at="2021-08-17T09:42:31 IST" duration-ms="15225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriverandLogin -->
+        <test-method signature="postingStatus()[pri:0, instance:com.facebook.PostStatus@6cfcd46d]" started-at="2021-08-17T09:42:31 IST" name="postingStatus" finished-at="2021-08-17T09:42:40 IST" duration-ms="9489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postingStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.facebook.PostStatus@6cfcd46d]" started-at="2021-08-17T09:42:40 IST" name="tearDown" finished-at="2021-08-17T09:42:41 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.PostStatus -->
+    </test> <!-- Facebook -->
+  </suite> <!-- WalletHubAssignment -->
+</testng-results>
